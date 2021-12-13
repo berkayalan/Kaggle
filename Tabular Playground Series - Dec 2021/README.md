@@ -4,3 +4,4 @@ In the past, they've launched many Playground competitions that are more approac
 In order to have a more consistent offering of these competitions for our community, they're trying a new experiment in 2021. 
 They'll be launching month-long tabular Playground competitions on the 1st of every month and continue the experiment as long as there's sufficient interest and participation.
 
+Files can be downloaded from [here](https://www.kaggle.com/c/tabular-playground-series-dec-2021).
